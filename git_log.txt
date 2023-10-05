@@ -1,0 +1,211 @@
+commit 295de0ace4df6b9f07b9afc87f4340fd25b99af7
+Author: Atti <atticusburgess@gmail.com>
+Date:   Sat Sep 2 15:36:47 2023 +1000
+
+    Proof read all docs and attached completed Gantt
+
+commit 304379bda562b633c0c1ff170e960b6a6a33423a
+Author: Atti <atticusburgess@gmail.com>
+Date:   Fri Sep 1 18:20:50 2023 +1000
+
+    Completed User requirements and finalised all sections
+
+commit cce975ca2cadc1d852d25e42e8a080d53828c0a7
+Author: pujaraansh <ansh@griffithuni.edu.au>
+Date:   Fri Aug 25 18:40:01 2023 +1000
+
+    done with my part
+
+commit 50ce3b031c4667605ca1a85c6fb71c0f6c8f2fa8
+Author: pujaraansh <ansh@griffithuni.edu.au>
+Date:   Fri Aug 25 18:34:03 2023 +1000
+
+    done with my part
+
+commit 74eaf7ac79cec65d9c01ab689fbbbdc144cf1171
+Merge: bdbf433 43067f1
+Author: pujaraansh <ansh@griffithuni.edu.au>
+Date:   Fri Aug 25 18:28:04 2023 +1000
+
+    done with my part
+
+commit bdbf433e9c434071db3270576ff6731c5f86bb8c
+Author: pujaraansh <ansh@griffithuni.edu.au>
+Date:   Fri Aug 25 13:06:02 2023 +1000
+
+    xxx
+
+commit 6be51b11e411776ecef30a4f1f06a81c312073fd
+Merge: c8df184 f036a2d
+Author: pujaraansh <ansh@griffithuni.edu.au>
+Date:   Fri Aug 25 12:32:04 2023 +1000
+
+    donewith-3.2.1
+
+commit 43067f1d7abb10d5637cab4e4f38d252686b2b86
+Author: Atti <atticusburgess@gmail.com>
+Date:   Fri Aug 25 12:25:42 2023 +1000
+
+    Added WBS to Plan
+
+commit c8df184722ae109568a2e6fff20802dc429ae1af
+Author: pujaraansh <ansh@griffithuni.edu.au>
+Date:   Fri Aug 25 12:23:58 2023 +1000
+
+    donewith-3.2.1
+
+commit f036a2d4fd4a7c1187b56e751f96316ab16a7de1
+Author: DrkKnight02 <140032798+DrkKnight02@users.noreply.github.com>
+Date:   Thu Aug 24 22:30:38 2023 +1000
+
+    Delete ~$ftware Design Document.docx
+
+commit 0ab782fe5f7c2f88031fe7d100d81069a3c60a9f
+Author: Drk_Knight02 <bebster2002@gmail.com>
+Date:   Thu Aug 24 22:27:59 2023 +1000
+
+    I have done all my parts i think - Bebin
+
+commit c2caa49457ea2a98adce58f347f9524fc658bd65
+Author: pujaraansh <ansh@griffithuni.edu.au>
+Date:   Thu Aug 24 13:29:37 2023 +1000
+
+    ansh test
+
+commit 4c56794b377967d122a99a5c384c89b233d4febe
+Author: Atti <atticusburgess@gmail.com>
+Date:   Wed Aug 23 17:43:03 2023 +1000
+
+    Updated Gantt, test
+
+commit 1fc3d879ec6846a8e247ce39f63078baa7089721
+Author: Drk_Knight02 <bebster2002@gmail.com>
+Date:   Wed Aug 23 16:22:04 2023 +1000
+
+    This is just an update
+
+commit 211e892889e15a721e0bed85334c009bb846ea67
+Author: Drk_Knight02 <bebster2002@gmail.com>
+Date:   Tue Aug 22 14:11:48 2023 +1000
+
+    This is just an update
+
+commit b2139c22c5feadbcee69e5e6e69eef5dbc9f4d3b
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Tue Jul 18 18:24:09 2023 +1000
+
+    Update README.md
+
+commit 2e31a553e7341e2a4c6b0d09f574c8b362e05521
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Tue Jul 4 17:33:04 2023 +1000
+
+    Update README.md
+
+commit 030b2c8fee6cb4829295dd90fc721c1a7ac56088
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Tue Jul 4 17:27:04 2023 +1000
+
+    Update README.md
+
+commit e6ab6fdc5da828040639c64d3748e81112efbe78
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Tue Jul 4 17:22:38 2023 +1000
+
+    Update README.md
+
+commit a65a169d4007ba0335fc19ac5405ced201e4b6df
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Tue Jul 4 17:20:41 2023 +1000
+
+    Update README.md
+
+commit 41306832e9735e7410025cdd41cf9b8982703a9a
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Tue Jul 4 17:18:51 2023 +1000
+
+    Update README.md
+
+commit 3c7da81f7198d815ae641f078b426545a6728588
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Tue Jul 4 17:18:10 2023 +1000
+
+    Update README.md
+
+commit 7610f13b8742f7ae725665f0f33cd7cb34d89c98
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Tue Jul 4 17:16:23 2023 +1000
+
+    Update README.md
+
+commit f722eb9ffcd648583bfd1eeba46c2759f095d117
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Tue Jul 4 17:15:54 2023 +1000
+
+    Update README.md
+
+commit b3d3a92072329a0f0acd80e60baf40155059885f
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Tue Jul 4 17:13:41 2023 +1000
+
+    Update README.md
+
+commit 8e13ca6d0e98e0837ae1ab438ec021b16cf51117
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Tue Jul 4 15:49:48 2023 +1000
+
+    Update README.md
+
+commit 3fc7ec24c8f6c2f4618f66a06f833fcbfdbe40aa
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Mon Jul 3 14:19:49 2023 +1000
+
+    Update README.md
+
+commit de25a51c800f71fc06137d6166f006afff70e68a
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Mon Jul 3 13:47:36 2023 +1000
+
+    Update README.md
+
+commit e23971f1fe6bf8780a5c811d3d6d392467545bae
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Mon Jul 3 13:43:11 2023 +1000
+
+    Update README.md
+
+commit 45406114ea5a616f93f2e4c90f7ff651f3d7b653
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Mon Jul 3 13:41:18 2023 +1000
+
+    Update README.md
+
+commit aef1b2460bb41f2a77d8a9132c6ba4240b6f6842
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Wed Jun 28 18:40:20 2023 +1000
+
+    Update README.md
+
+commit f188287514d01b4bd893fbd3f60a895a7b327ec5
+Author: Kevin <136687484+2810ICT-7810ICT-Assignment@users.noreply.github.com>
+Date:   Thu Jun 15 18:19:23 2023 +1000
+
+    Update README.md
+
+commit 5c3e04f360229f9a16308c0f5887eca5350b06e0
+Author: Kevin <136687484+KevinFromGU@users.noreply.github.com>
+Date:   Thu Jun 15 18:16:10 2023 +1000
+
+    Add files via upload
+
+commit 1ccd65aeaa87a951181f56890e9c38444a34224a
+Author: Kevin <136687484+KevinFromGU@users.noreply.github.com>
+Date:   Thu Jun 15 18:13:40 2023 +1000
+
+    Update README.md
+
+commit 48a897bffeae90f026df9103fe79efe505c530cd
+Author: Kevin <136687484+KevinFromGU@users.noreply.github.com>
+Date:   Thu Jun 15 18:12:15 2023 +1000
+
+    Add files via upload
