@@ -209,3 +209,16 @@ Author: Kevin <136687484+KevinFromGU@users.noreply.github.com>
 Date:   Thu Jun 15 18:12:15 2023 +1000
 
     Add files via upload
+
+class MainFrame(wx.Frame):
+    def __init__(self, parent, title):
+        super(MainFrame, self).__init__(parent, title=title, size=(600, 500))
+
+        self.panel = MainPanel(self)
+
+
+class MainPanel(wx.Panel):
+    def __init__(self, parent):
+        super(MainPanel, self).__init__(parent)
+
+    font = wx.Font(10, family=wx.FONTFAMILY_MODERN, style=0, weight=90, underline=False, faceName="")
